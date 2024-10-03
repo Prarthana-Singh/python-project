@@ -2,7 +2,7 @@
 import random #random module to take all the methods from thi
 
 print("Hi welcome to the game, This is a number guessing game.\nYou got 7 chances to guess the number. Let's start the game")
-
+print("welcome")
 number_to_guess = random.randrange(100)
 
 chances = 7
