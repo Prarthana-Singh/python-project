@@ -1,3 +1,4 @@
+# This project is amazing
 import random
 
 name = input("What is your name? ")
