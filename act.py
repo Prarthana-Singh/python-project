@@ -1,6 +1,6 @@
 import openpyxl as xl
 from openpyxl.chart import BarChart,Reference
-
+print("Hii")
 wb=xl.load_workbook('Trani.xlsx')
 sheet=wb['Sheet1']
 data=sheet.cell(1,4)
