@@ -15,7 +15,7 @@ print("Guess the characters")
 guesses = ''
 turns = 12
 
-while turns > 0:
+while turns > 0:#loop
 
     failed = 0
 
